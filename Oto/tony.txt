@@ -1,0 +1,7 @@
+Git
+Bassey
+git branch
+git push
+git pull
+sudo yum -y install git
+systemctl -y restart
