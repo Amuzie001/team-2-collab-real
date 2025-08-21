@@ -1,0 +1,25 @@
+This is Bassey's Environment
+ git branch
+git checkout
+git merge Bassey_Bank Transfer
+Devops Tools
+Ansible
+Github
+Gitbash
+Linux
+Sonarque
+Frontend Tier
+Application Tier
+Database Tier
+Maven(mvn)
+git add
+git commit -m This is me for real
+AWS(ec2 instance)
+Security Group
+  -https-Port 80
+  -Mysql-Port 3306
+  -sonarque-Port 900
+rpm -qa |grep java
+systemctl yum start-restart-status-enable
+sudo yum -y install java-17.0.8*
+
